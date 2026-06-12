@@ -1,22 +1,163 @@
 {
-  "updated": "2026-06-12T13:05:00+00:00",
-  "source": "TradingView pre-market gappers (america) — SAMPLE DATA",
-  "total_count": 3,
+  "updated": "2026-06-12T22:57:01.357569+00:00",
+  "source": "TradingView pre-market gappers (america)",
+  "total_count": 8,
   "columns": [
-    { "left": "symbol",                          "label": "Symbol",      "fmt": "text" },
-    { "left": "premarket_change",                "label": "PM Chg %",    "fmt": "pct" },
-    { "left": "change_from_open",                "label": "From Open %", "fmt": "pct" },
-    { "left": "premarket_close",                 "label": "PM Price",    "fmt": "price" },
-    { "left": "premarket_volume",                "label": "PM Vol",      "fmt": "vol" },
-    { "left": "float_shares_percent_current",    "label": "Float %",     "fmt": "pct" },
-    { "left": "float_shares_outstanding_current","label": "Float Sh",    "fmt": "vol" },
-    { "left": "market_cap_basic",                "label": "Mkt Cap",     "fmt": "money" },
-    { "left": "sector",                          "label": "Sector",      "fmt": "text" },
-    { "left": "exchange.tr",                     "label": "Exch",        "fmt": "text" }
+    {
+      "left": "symbol",
+      "label": "Symbol",
+      "fmt": "text"
+    },
+    {
+      "left": "premarket_change",
+      "label": "PM Chg %",
+      "fmt": "pct"
+    },
+    {
+      "left": "change_from_open",
+      "label": "From Open %",
+      "fmt": "pct"
+    },
+    {
+      "left": "premarket_close",
+      "label": "PM Price",
+      "fmt": "price"
+    },
+    {
+      "left": "premarket_volume",
+      "label": "PM Vol",
+      "fmt": "vol"
+    },
+    {
+      "left": "float_shares_percent_current",
+      "label": "Float %",
+      "fmt": "pct"
+    },
+    {
+      "left": "float_shares_outstanding_current",
+      "label": "Float Sh",
+      "fmt": "vol"
+    },
+    {
+      "left": "market_cap_basic",
+      "label": "Mkt Cap",
+      "fmt": "money"
+    },
+    {
+      "left": "sector",
+      "label": "Sector",
+      "fmt": "text"
+    },
+    {
+      "left": "exchange.tr",
+      "label": "Exch",
+      "fmt": "text"
+    }
   ],
   "rows": [
-    { "_ticker": "NASDAQ:DEMO", "symbol": "DEMO", "premarket_change": 142.50, "change_from_open": 8.30, "premarket_close": 3.42, "premarket_volume": 5400000, "float_shares_percent_current": 38.2, "float_shares_outstanding_current": 12000000, "market_cap_basic": 41000000, "sector": "Health Technology", "exchange.tr": "NASDAQ" },
-    { "_ticker": "NYSE:SAMP", "symbol": "SAMP", "premarket_change": 47.10, "change_from_open": -2.10, "premarket_close": 8.10, "premarket_volume": 820000, "float_shares_percent_current": 64.0, "float_shares_outstanding_current": 55000000, "market_cap_basic": 890000000, "sector": "Technology Services", "exchange.tr": "NYSE" },
-    { "_ticker": "OTC:MOCK", "symbol": "MOCK", "premarket_change": 28.90, "change_from_open": 1.40, "premarket_close": 1.55, "premarket_volume": 260000, "float_shares_percent_current": 12.7, "float_shares_outstanding_current": 9000000, "market_cap_basic": 14000000, "sector": "Finance", "exchange.tr": "OTC" }
+    {
+      "_ticker": "NASDAQ:BYAH",
+      "symbol": "BYAH",
+      "premarket_change": 176.19047619047618,
+      "change_from_open": -48.78048780487806,
+      "premarket_close": 2.9,
+      "premarket_volume": 40508417,
+      "float_shares_percent_current": 35.867399999999996,
+      "float_shares_outstanding_current": 1018463.4311759999,
+      "market_cap_basic": 4734169.999999999,
+      "sector": "Consumer Non-Durables",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:DSY",
+      "symbol": "DSY",
+      "premarket_change": 77.57731958762886,
+      "change_from_open": -29.069767441860467,
+      "premarket_close": 6.89,
+      "premarket_volume": 16394374,
+      "float_shares_percent_current": 26.344800000000003,
+      "float_shares_outstanding_current": 1251871.174656,
+      "market_cap_basic": 40269137.42268042,
+      "sector": "Miscellaneous",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:VSME",
+      "symbol": "VSME",
+      "premarket_change": 58.55855855855855,
+      "change_from_open": -4.249291784702548,
+      "premarket_close": 1.76,
+      "premarket_volume": 35903500,
+      "float_shares_percent_current": 93.50970000000001,
+      "float_shares_outstanding_current": 2572249.8660480003,
+      "market_cap_basic": 4672968.7567567555,
+      "sector": "Commercial Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:GMM",
+      "symbol": "GMM",
+      "premarket_change": 51.378472222222236,
+      "change_from_open": -22.935779816513772,
+      "premarket_close": 4.3597,
+      "premarket_volume": 19862132,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 31243256.333333336,
+      "sector": "Technology Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:EDHL",
+      "symbol": "EDHL",
+      "premarket_change": 38.29431438127089,
+      "change_from_open": 2.1276595744680815,
+      "premarket_close": 8.27,
+      "premarket_volume": 3244899,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 14396616.722408028,
+      "sector": "Commercial Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:CUPR",
+      "symbol": "CUPR",
+      "premarket_change": 34.854771784232355,
+      "change_from_open": 21.771670449665663,
+      "premarket_close": 3.25,
+      "premarket_volume": 9892202,
+      "float_shares_percent_current": 100,
+      "float_shares_outstanding_current": 920625,
+      "market_cap_basic": 3654880.8381742737,
+      "sector": "Health Technology",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:AKAN",
+      "symbol": "AKAN",
+      "premarket_change": 34.69785575048733,
+      "change_from_open": -11.16435074269287,
+      "premarket_close": 20.73,
+      "premarket_volume": 988570,
+      "float_shares_percent_current": 100,
+      "float_shares_outstanding_current": 540841,
+      "market_cap_basic": 10027192.152046783,
+      "sector": "Process Industries",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:UBXG",
+      "symbol": "UBXG",
+      "premarket_change": 25.469728601252605,
+      "change_from_open": 30.29801324503311,
+      "premarket_close": 6.01,
+      "premarket_volume": 7226540,
+      "float_shares_percent_current": 81.7435,
+      "float_shares_outstanding_current": 1384449.605185,
+      "market_cap_basic": 15740256.308977036,
+      "sector": "Commercial Services",
+      "exchange.tr": "NASDAQ"
+    }
   ]
 }
