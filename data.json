@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:18:10.685785+00:00",
+  "updated": "2026-06-19T22:31:01.825367+00:00",
   "source": "TradingView pre-market gappers (america)",
   "total_count": 8,
   "columns": [
@@ -64,7 +64,7 @@
       "premarket_volume": 36997345,
       "float_shares_percent_current": 61.3463,
       "float_shares_outstanding_current": 16521675.09266,
-      "market_cap_basic": 333628445.09126216,
+      "market_cap_basic": 333628426,
       "sector": "Technology Services",
       "exchange.tr": "NASDAQ"
     },
@@ -77,7 +77,7 @@
       "premarket_volume": 78817863,
       "float_shares_percent_current": 33.5048,
       "float_shares_outstanding_current": 1627780.4508,
-      "market_cap_basic": 4955517.662337663,
+      "market_cap_basic": 4955517.000000001,
       "sector": "Health Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -90,7 +90,7 @@
       "premarket_volume": 24586197,
       "float_shares_percent_current": 98.2812,
       "float_shares_outstanding_current": 1495226.589312,
-      "market_cap_basic": 4747288.35,
+      "market_cap_basic": 4747288,
       "sector": "Electronic Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -103,7 +103,7 @@
       "premarket_volume": 6315741,
       "float_shares_percent_current": 35.867399999999996,
       "float_shares_outstanding_current": 1018463.4311759999,
-      "market_cap_basic": 5747089.7,
+      "market_cap_basic": 7996846,
       "sector": "Consumer Non-Durables",
       "exchange.tr": "NASDAQ"
     },
@@ -116,7 +116,7 @@
       "premarket_volume": 5266004,
       "float_shares_percent_current": 16.0609,
       "float_shares_outstanding_current": 5078103.2402,
-      "market_cap_basic": 112875602.84713376,
+      "market_cap_basic": 112875598.00000001,
       "sector": "Finance",
       "exchange.tr": "NYSE Arca"
     },
@@ -129,7 +129,7 @@
       "premarket_volume": 32054932,
       "float_shares_percent_current": 15.2238,
       "float_shares_outstanding_current": 3138569.0556,
-      "market_cap_basic": 41026289.53956834,
+      "market_cap_basic": 41026290,
       "sector": "Electronic Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -140,9 +140,9 @@
       "change_from_open": -43.7609841827768,
       "premarket_close": 5.69,
       "premarket_volume": 2753069,
-      "float_shares_percent_current": 69.73559999999999,
-      "float_shares_outstanding_current": 8502.861707999999,
-      "market_cap_basic": 52704.648,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 41448,
       "sector": "Health Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -155,7 +155,7 @@
       "premarket_volume": 1291674,
       "float_shares_percent_current": 88.4585,
       "float_shares_outstanding_current": 207738595.155,
-      "market_cap_basic": 2325300301.9439583,
+      "market_cap_basic": 2325300187,
       "sector": "Health Technology",
       "exchange.tr": "NYSE"
     }
