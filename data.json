@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:36:17.236938+00:00",
+  "updated": "2026-07-03T22:33:13.963099+00:00",
   "source": "TradingView pre-market gappers (america)",
   "total_count": 5,
   "columns": [
@@ -64,7 +64,7 @@
       "premarket_volume": 170333205,
       "float_shares_percent_current": 97.79830000000001,
       "float_shares_outstanding_current": 8282931.176166001,
-      "market_cap_basic": 5704596,
+      "market_cap_basic": 10873476,
       "sector": "Finance",
       "exchange.tr": "NASDAQ"
     },
@@ -75,9 +75,9 @@
       "change_from_open": -28.35051546391753,
       "premarket_close": 3.88,
       "premarket_volume": 15242091,
-      "float_shares_percent_current": 95.21740000000001,
-      "float_shares_outstanding_current": 5542385.85398,
-      "market_cap_basic": 16181739.79807692,
+      "float_shares_percent_current": 92.5093,
+      "float_shares_outstanding_current": 5384753.58161,
+      "market_cap_basic": 16181740.000000004,
       "sector": "Technology Services",
       "exchange.tr": "NASDAQ"
     },
@@ -90,7 +90,7 @@
       "premarket_volume": 8377439,
       "float_shares_percent_current": 26.344800000000003,
       "float_shares_outstanding_current": 1251871.174656,
-      "market_cap_basic": 36885868.83333333,
+      "market_cap_basic": 36885866,
       "sector": "Miscellaneous",
       "exchange.tr": "NASDAQ"
     },
@@ -103,7 +103,7 @@
       "premarket_volume": 10130983,
       "float_shares_percent_current": 89.5412,
       "float_shares_outstanding_current": 2040079.83844,
-      "market_cap_basic": 4032717.604166667,
+      "market_cap_basic": 4032717,
       "sector": "Health Technology",
       "exchange.tr": "NASDAQ"
     },
@@ -116,7 +116,7 @@
       "premarket_volume": 9940721,
       "float_shares_percent_current": 3.215,
       "float_shares_outstanding_current": 1621961.07,
-      "market_cap_basic": 69116195.70192307,
+      "market_cap_basic": 69116198.80147058,
       "sector": "Health Technology",
       "exchange.tr": "NYSE Arca"
     }
