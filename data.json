@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-09T22:50:00.880685+00:00",
+  "updated": "2026-07-10T22:31:57.510957+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 3,
   "columns": [
     {
       "left": "symbol",
@@ -56,55 +56,42 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:VRAX",
-      "symbol": "VRAX",
-      "premarket_change": 247.48427672955975,
-      "change_from_open": -42.65103697024346,
-      "premarket_close": 11.05,
-      "premarket_volume": 22721982,
-      "float_shares_percent_current": 98.20679999999999,
-      "float_shares_outstanding_current": 782696.411184,
-      "market_cap_basic": 2534422,
-      "sector": "Finance",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:RKTO",
-      "symbol": "RKTO",
-      "premarket_change": 43.32003988035891,
-      "change_from_open": -20.524017467248907,
-      "premarket_close": 1.15,
-      "premarket_volume": 48067437,
-      "float_shares_percent_current": 97.1058,
-      "float_shares_outstanding_current": 21676247.9934,
-      "market_cap_basic": 20313317.360418744,
-      "sector": "Health Technology",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:PMA",
-      "symbol": "PMA",
-      "premarket_change": 39.2,
-      "change_from_open": -25.86206896551724,
-      "premarket_close": 1.74,
-      "premarket_volume": 14476461,
-      "float_shares_percent_current": 35.1455,
-      "float_shares_outstanding_current": 4560128.625,
-      "market_cap_basic": 16737750,
-      "sector": "Industrial Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:RPGL",
-      "symbol": "RPGL",
-      "premarket_change": 35.3932584269663,
-      "change_from_open": -2.0661157024793315,
-      "premarket_close": 2.41,
-      "premarket_volume": 8589070,
-      "float_shares_percent_current": 99.90720000000002,
-      "float_shares_outstanding_current": 1063902.7811520002,
-      "market_cap_basic": 2564856.606741573,
+      "_ticker": "NASDAQ:GMM",
+      "symbol": "GMM",
+      "premarket_change": 206.48648648648646,
+      "change_from_open": -19.66671354239909,
+      "premarket_close": 5.67,
+      "premarket_volume": 68517632,
+      "float_shares_percent_current": 94.0033,
+      "float_shares_outstanding_current": 1682659.0699999998,
+      "market_cap_basic": 3607500,
       "sector": "Technology Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:HAO",
+      "symbol": "HAO",
+      "premarket_change": 53.27102803738316,
+      "change_from_open": -77.99386503067484,
+      "premarket_close": 1.64,
+      "premarket_volume": 45308800,
+      "float_shares_percent_current": 99.2702,
+      "float_shares_outstanding_current": 1890731.995664,
+      "market_cap_basic": 2378106,
+      "sector": "Commercial Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:JZXN",
+      "symbol": "JZXN",
+      "premarket_change": 38.46153846153848,
+      "change_from_open": 33.9506172839506,
+      "premarket_close": 1.62,
+      "premarket_volume": 6781276,
+      "float_shares_percent_current": 99.9085,
+      "float_shares_outstanding_current": 1391525.588,
+      "market_cap_basic": 3022372.290598291,
+      "sector": "Retail Trade",
       "exchange.tr": "NASDAQ"
     }
   ]
