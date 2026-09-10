@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T23:25:34.824011+00:00",
+  "updated": "2026-09-10T23:19:36.292098+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 1,
   "columns": [
     {
       "left": "symbol",
@@ -56,55 +56,16 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:RML",
-      "symbol": "RML",
-      "premarket_change": 74,
-      "change_from_open": -18.079096045197744,
-      "premarket_close": 13.92,
-      "premarket_volume": 204479,
-      "float_shares_percent_current": 83.9388,
-      "float_shares_outstanding_current": 2155976471.88,
-      "market_cap_basic": 74940172.18845,
-      "sector": "Non-Energy Minerals",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:YMAT",
-      "symbol": "YMAT",
-      "premarket_change": 42.64150943396226,
-      "change_from_open": 20.744680851063837,
-      "premarket_close": 1.89,
-      "premarket_volume": 15919249,
-      "float_shares_percent_current": 56.5511,
-      "float_shares_outstanding_current": 1578152.8858369999,
-      "market_cap_basic": 9102934.709433964,
-      "sector": "Producer Manufacturing",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:ODD",
-      "symbol": "ODD",
-      "premarket_change": 34.433781190019204,
-      "change_from_open": -5.828571428571426,
-      "premarket_close": 17.51,
-      "premarket_volume": 1314893,
-      "float_shares_percent_current": 81.3006,
-      "float_shares_outstanding_current": 28111758.054318,
-      "market_cap_basic": 760132608.3562381,
-      "sector": "Technology Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:SUNE",
-      "symbol": "SUNE",
-      "premarket_change": 27.004219409282687,
-      "change_from_open": 49.83388704318937,
-      "premarket_close": 3.01,
-      "premarket_volume": 10837993,
-      "float_shares_percent_current": 83.55550000000001,
-      "float_shares_outstanding_current": 5442061.62605,
-      "market_cap_basic": 15436065,
-      "sector": "Industrial Services",
+      "_ticker": "NASDAQ:TNON",
+      "symbol": "TNON",
+      "premarket_change": 72.13114754098362,
+      "change_from_open": 26.19047619047618,
+      "premarket_close": 4.2,
+      "premarket_volume": 22719303,
+      "float_shares_percent_current": 87.03,
+      "float_shares_outstanding_current": 898652.6334,
+      "market_cap_basic": 2519490,
+      "sector": "Health Services",
       "exchange.tr": "NASDAQ"
     }
   ]
