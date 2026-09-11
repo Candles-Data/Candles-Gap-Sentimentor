@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-10T23:19:36.292098+00:00",
+  "updated": "2026-09-11T23:28:38.068470+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 1,
+  "total_count": 6,
   "columns": [
     {
       "left": "symbol",
@@ -58,14 +58,79 @@
     {
       "_ticker": "NASDAQ:TNON",
       "symbol": "TNON",
-      "premarket_change": 72.13114754098362,
-      "change_from_open": 26.19047619047618,
-      "premarket_close": 4.2,
-      "premarket_volume": 22719303,
+      "premarket_change": 53.58490566037738,
+      "change_from_open": -27.14987714987716,
+      "premarket_close": 8.14,
+      "premarket_volume": 23927822,
       "float_shares_percent_current": 87.03,
       "float_shares_outstanding_current": 898652.6334,
-      "market_cap_basic": 2519490,
+      "market_cap_basic": 6123188.211320754,
       "sector": "Health Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NYSE:ACVA",
+      "symbol": "ACVA",
+      "premarket_change": 44.80609418282549,
+      "change_from_open": -0.4304160688665703,
+      "premarket_close": 10.455,
+      "premarket_volume": 34277318,
+      "float_shares_percent_current": 93.4701,
+      "float_shares_outstanding_current": 158719707.408,
+      "market_cap_basic": 1767701056.5166206,
+      "sector": "Technology Services",
+      "exchange.tr": "NYSE"
+    },
+    {
+      "_ticker": "NASDAQ:FTFT",
+      "symbol": "FTFT",
+      "premarket_change": 36.097560975609774,
+      "change_from_open": 2.1276595744680873,
+      "premarket_close": 2.79,
+      "premarket_volume": 9347320,
+      "float_shares_percent_current": 66.5765,
+      "float_shares_outstanding_current": 5377710.129849999,
+      "market_cap_basic": 23263176.117073175,
+      "sector": "Finance",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:LBGJ",
+      "symbol": "LBGJ",
+      "premarket_change": 32.98969072164949,
+      "change_from_open": -13.127413127413124,
+      "premarket_close": 2.58,
+      "premarket_volume": 3340313,
+      "float_shares_percent_current": 99.85719999999999,
+      "float_shares_outstanding_current": 539867.9660799999,
+      "market_cap_basic": 1218176.675257732,
+      "sector": "Consumer Durables",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:AENT",
+      "symbol": "AENT",
+      "premarket_change": 31.941923774954628,
+      "change_from_open": -11.691884456671248,
+      "premarket_close": 7.27,
+      "premarket_volume": 2901565,
+      "float_shares_percent_current": 6.542999999999999,
+      "float_shares_outstanding_current": 3335595.2279999997,
+      "market_cap_basic": 327289234.73684216,
+      "sector": "Distribution Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:PCLA",
+      "symbol": "PCLA",
+      "premarket_change": 30.34979423868312,
+      "change_from_open": -19.63434022257552,
+      "premarket_close": 12.67,
+      "premarket_volume": 683774,
+      "float_shares_percent_current": 98.61350000000002,
+      "float_shares_outstanding_current": 9480509.593675,
+      "market_cap_basic": 93446185,
+      "sector": "Electronic Technology",
       "exchange.tr": "NASDAQ"
     }
   ]
