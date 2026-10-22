@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T00:01:31.627857+00:00",
+  "updated": "2026-10-22T00:05:49.669878+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 3,
   "columns": [
     {
       "left": "symbol",
@@ -56,56 +56,43 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:BRZE",
-      "symbol": "BRZE",
-      "premarket_change": 51.56458055925434,
-      "change_from_open": 0.08785416209092718,
-      "premarket_close": 45.53,
-      "premarket_volume": 4255674,
-      "float_shares_percent_current": 77.23819999999999,
-      "float_shares_outstanding_current": 87730569.21226,
-      "market_cap_basic": 5176042489.966378,
+      "_ticker": "NASDAQ:OLOX",
+      "symbol": "OLOX",
+      "premarket_change": 66.89280868385346,
+      "change_from_open": -18.218623481781382,
+      "premarket_close": 1.23,
+      "premarket_volume": 71144057,
+      "float_shares_percent_current": 75.9872,
+      "float_shares_outstanding_current": 1260893.6032,
+      "market_cap_basic": 1675940.827679783,
+      "sector": "Producer Manufacturing",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:AMOD",
+      "symbol": "AMOD",
+      "premarket_change": 46.511627906976734,
+      "change_from_open": -45.35809018567639,
+      "premarket_close": 1.89,
+      "premarket_volume": 23099155,
+      "float_shares_percent_current": 20.995499999999996,
+      "float_shares_outstanding_current": 1035029.0205299999,
+      "market_cap_basic": 5077658.868217054,
       "sector": "Technology Services",
       "exchange.tr": "NASDAQ"
     },
     {
-      "_ticker": "NASDAQ:WORX",
-      "symbol": "WORX",
-      "premarket_change": 48.88059701492537,
-      "change_from_open": -8.040201005025121,
-      "premarket_close": 3.99,
-      "premarket_volume": 22449040,
-      "float_shares_percent_current": 99.17759999999998,
-      "float_shares_outstanding_current": 545476.7999999999,
-      "market_cap_basic": 2012999.9999999998,
-      "sector": "Technology Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:SAIQ",
-      "symbol": "SAIQ",
-      "premarket_change": 36.95014662756598,
-      "change_from_open": 48.051948051948045,
-      "premarket_close": 4.67,
-      "premarket_volume": 7803469,
-      "float_shares_percent_current": 100,
-      "float_shares_outstanding_current": 4494439,
-      "market_cap_basic": 101673147,
+      "_ticker": "NYSE:AHT",
+      "symbol": "AHT",
+      "premarket_change": 33.519553072625705,
+      "change_from_open": 3.347280334728036,
+      "premarket_close": 2.39,
+      "premarket_volume": 10438873,
+      "float_shares_percent_current": 98.93469999999999,
+      "float_shares_outstanding_current": 6400887.11407,
+      "market_cap_basic": 15980439.117318437,
       "sector": "Finance",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:MYGN",
-      "symbol": "MYGN",
-      "premarket_change": 25.890736342042754,
-      "change_from_open": 3.745318352059929,
-      "premarket_close": 5.3,
-      "premarket_volume": 2464091,
-      "float_shares_percent_current": 92.6349,
-      "float_shares_outstanding_current": 88604911.3104,
-      "market_cap_basic": 529899069.55344415,
-      "sector": "Health Technology",
-      "exchange.tr": "NASDAQ"
+      "exchange.tr": "NYSE"
     }
   ]
 }
