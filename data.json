@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23T00:04:19.547715+00:00",
+  "updated": "2026-10-23T23:54:26.346215+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 3,
   "columns": [
     {
       "left": "symbol",
@@ -56,55 +56,42 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:STAK",
-      "symbol": "STAK",
-      "premarket_change": 68,
-      "change_from_open": -0.5952380952380958,
-      "premarket_close": 1.68,
-      "premarket_volume": 32655568,
+      "_ticker": "NASDAQ:YMAT",
+      "symbol": "YMAT",
+      "premarket_change": 31.770833333333325,
+      "change_from_open": -19.291338582677174,
+      "premarket_close": 2.53,
+      "premarket_volume": 13974767,
+      "float_shares_percent_current": 56.5511,
+      "float_shares_outstanding_current": 1578152.8858369999,
+      "market_cap_basic": 8220712.473958333,
+      "sector": "Producer Manufacturing",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:AIXI",
+      "symbol": "AIXI",
+      "premarket_change": 28.629032258064512,
+      "change_from_open": -7.210031347962382,
+      "premarket_close": 3.19,
+      "premarket_volume": 8530848,
       "float_shares_percent_current": null,
       "float_shares_outstanding_current": null,
-      "market_cap_basic": 16717281.16,
-      "sector": "Industrial Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NYSE:BHVN",
-      "symbol": "BHVN",
-      "premarket_change": 37.702127659574465,
-      "change_from_open": -8.75776397515529,
-      "premarket_close": 16.18,
-      "premarket_volume": 9296306,
-      "float_shares_percent_current": 85.11390000000002,
-      "float_shares_outstanding_current": 128559251.86542001,
-      "market_cap_basic": 2218833090.693617,
-      "sector": "Health Technology",
-      "exchange.tr": "NYSE"
-    },
-    {
-      "_ticker": "NASDAQ:NCPL",
-      "symbol": "NCPL",
-      "premarket_change": 30.573248407643295,
-      "change_from_open": 8.780487804878058,
-      "premarket_close": 2.05,
-      "premarket_volume": 1908914,
-      "float_shares_percent_current": 26.619600000000005,
-      "float_shares_outstanding_current": 2089079.5884000002,
-      "market_cap_basic": 17500815.579617836,
-      "sector": "Commercial Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:BKYI",
-      "symbol": "BKYI",
-      "premarket_change": 28.585714285714275,
-      "change_from_open": 1.1070110701107103,
-      "premarket_close": 2.7003,
-      "premarket_volume": 10480262,
-      "float_shares_percent_current": 93.8876,
-      "float_shares_outstanding_current": 1910753.4914,
-      "market_cap_basic": 5576308.3904761905,
+      "market_cap_basic": 1401723,
       "sector": "Technology Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:SAIQ",
+      "symbol": "SAIQ",
+      "premarket_change": 27.65151515151515,
+      "change_from_open": -9.198813056379823,
+      "premarket_close": 6.74,
+      "premarket_volume": 1476159,
+      "float_shares_percent_current": 49.2549,
+      "float_shares_outstanding_current": 2213731.435011,
+      "market_cap_basic": 182474975.9318182,
+      "sector": "Finance",
       "exchange.tr": "NASDAQ"
     }
   ]
