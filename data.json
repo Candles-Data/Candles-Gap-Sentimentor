@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T00:05:49.669878+00:00",
+  "updated": "2026-10-23T00:04:19.547715+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 3,
+  "total_count": 4,
   "columns": [
     {
       "left": "symbol",
@@ -56,43 +56,56 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:OLOX",
-      "symbol": "OLOX",
-      "premarket_change": 66.89280868385346,
-      "change_from_open": -18.218623481781382,
-      "premarket_close": 1.23,
-      "premarket_volume": 71144057,
-      "float_shares_percent_current": 75.9872,
-      "float_shares_outstanding_current": 1260893.6032,
-      "market_cap_basic": 1675940.827679783,
-      "sector": "Producer Manufacturing",
+      "_ticker": "NASDAQ:STAK",
+      "symbol": "STAK",
+      "premarket_change": 68,
+      "change_from_open": -0.5952380952380958,
+      "premarket_close": 1.68,
+      "premarket_volume": 32655568,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 16717281.16,
+      "sector": "Industrial Services",
       "exchange.tr": "NASDAQ"
     },
     {
-      "_ticker": "NASDAQ:AMOD",
-      "symbol": "AMOD",
-      "premarket_change": 46.511627906976734,
-      "change_from_open": -45.35809018567639,
-      "premarket_close": 1.89,
-      "premarket_volume": 23099155,
-      "float_shares_percent_current": 20.995499999999996,
-      "float_shares_outstanding_current": 1035029.0205299999,
-      "market_cap_basic": 5077658.868217054,
+      "_ticker": "NYSE:BHVN",
+      "symbol": "BHVN",
+      "premarket_change": 37.702127659574465,
+      "change_from_open": -8.75776397515529,
+      "premarket_close": 16.18,
+      "premarket_volume": 9296306,
+      "float_shares_percent_current": 85.11390000000002,
+      "float_shares_outstanding_current": 128559251.86542001,
+      "market_cap_basic": 2218833090.693617,
+      "sector": "Health Technology",
+      "exchange.tr": "NYSE"
+    },
+    {
+      "_ticker": "NASDAQ:NCPL",
+      "symbol": "NCPL",
+      "premarket_change": 30.573248407643295,
+      "change_from_open": 8.780487804878058,
+      "premarket_close": 2.05,
+      "premarket_volume": 1908914,
+      "float_shares_percent_current": 26.619600000000005,
+      "float_shares_outstanding_current": 2089079.5884000002,
+      "market_cap_basic": 17500815.579617836,
+      "sector": "Commercial Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:BKYI",
+      "symbol": "BKYI",
+      "premarket_change": 28.585714285714275,
+      "change_from_open": 1.1070110701107103,
+      "premarket_close": 2.7003,
+      "premarket_volume": 10480262,
+      "float_shares_percent_current": 93.8876,
+      "float_shares_outstanding_current": 1910753.4914,
+      "market_cap_basic": 5576308.3904761905,
       "sector": "Technology Services",
       "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NYSE:AHT",
-      "symbol": "AHT",
-      "premarket_change": 33.519553072625705,
-      "change_from_open": 3.347280334728036,
-      "premarket_close": 2.39,
-      "premarket_volume": 10438873,
-      "float_shares_percent_current": 98.93469999999999,
-      "float_shares_outstanding_current": 6400887.11407,
-      "market_cap_basic": 15980439.117318437,
-      "sector": "Finance",
-      "exchange.tr": "NYSE"
     }
   ]
 }
