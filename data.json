@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T00:56:46.853969+00:00",
+  "updated": "2026-11-03T02:59:47.066670+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 1,
+  "total_count": 4,
   "columns": [
     {
       "left": "symbol",
@@ -56,15 +56,54 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:TNMG",
-      "symbol": "TNMG",
-      "premarket_change": 36.393442622950836,
-      "change_from_open": -6.2650602409638605,
-      "premarket_close": 4.16,
-      "premarket_volume": 17737736,
-      "float_shares_percent_current": 89.12850000000002,
-      "float_shares_outstanding_current": 677887.3063050001,
-      "market_cap_basic": 2958629.416393443,
+      "_ticker": "NASDAQ:INO",
+      "symbol": "INO",
+      "premarket_change": 230.36188579017264,
+      "change_from_open": -5.0251256281407075,
+      "premarket_close": 1.9901,
+      "premarket_volume": 48697494,
+      "float_shares_percent_current": 99.6227,
+      "float_shares_outstanding_current": 103007879.346,
+      "market_cap_basic": 62286663,
+      "sector": "Health Technology",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:CLRO",
+      "symbol": "CLRO",
+      "premarket_change": 95.89442815249265,
+      "change_from_open": -15.482423335826468,
+      "premarket_close": 6.68,
+      "premarket_volume": 12821418,
+      "float_shares_percent_current": 26.6811,
+      "float_shares_outstanding_current": 713828.8175100001,
+      "market_cap_basic": 15116079.589442814,
+      "sector": "Consumer Durables",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:EVGO",
+      "symbol": "EVGO",
+      "premarket_change": 44.44444444444445,
+      "change_from_open": 1.6483516483516498,
+      "premarket_close": 1.82,
+      "premarket_volume": 25449242,
+      "float_shares_percent_current": 94.3535,
+      "float_shares_outstanding_current": 133714006.06,
+      "market_cap_basic": 581854065.5555556,
+      "sector": "Retail Trade",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:PERI",
+      "symbol": "PERI",
+      "premarket_change": 31.149425287356337,
+      "change_from_open": -0.08756567425568991,
+      "premarket_close": 11.41,
+      "premarket_volume": 1179183,
+      "float_shares_percent_current": 92.5786,
+      "float_shares_outstanding_current": 36411441.1158,
+      "market_cap_basic": 448758923.6586208,
       "sector": "Technology Services",
       "exchange.tr": "NASDAQ"
     }
