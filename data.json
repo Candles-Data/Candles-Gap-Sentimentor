@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-03T02:59:47.066670+00:00",
+  "updated": "2026-11-04T01:33:25.569752+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 3,
   "columns": [
     {
       "left": "symbol",
@@ -56,55 +56,42 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:INO",
-      "symbol": "INO",
-      "premarket_change": 230.36188579017264,
-      "change_from_open": -5.0251256281407075,
-      "premarket_close": 1.9901,
-      "premarket_volume": 48697494,
-      "float_shares_percent_current": 99.6227,
-      "float_shares_outstanding_current": 103007879.346,
-      "market_cap_basic": 62286663,
-      "sector": "Health Technology",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:CLRO",
-      "symbol": "CLRO",
-      "premarket_change": 95.89442815249265,
-      "change_from_open": -15.482423335826468,
-      "premarket_close": 6.68,
-      "premarket_volume": 12821418,
-      "float_shares_percent_current": 26.6811,
-      "float_shares_outstanding_current": 713828.8175100001,
-      "market_cap_basic": 15116079.589442814,
-      "sector": "Consumer Durables",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:EVGO",
-      "symbol": "EVGO",
-      "premarket_change": 44.44444444444445,
-      "change_from_open": 1.6483516483516498,
-      "premarket_close": 1.82,
-      "premarket_volume": 25449242,
-      "float_shares_percent_current": 94.3535,
-      "float_shares_outstanding_current": 133714006.06,
-      "market_cap_basic": 581854065.5555556,
-      "sector": "Retail Trade",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:PERI",
-      "symbol": "PERI",
-      "premarket_change": 31.149425287356337,
-      "change_from_open": -0.08756567425568991,
-      "premarket_close": 11.41,
-      "premarket_volume": 1179183,
-      "float_shares_percent_current": 92.5786,
-      "float_shares_outstanding_current": 36411441.1158,
-      "market_cap_basic": 448758923.6586208,
+      "_ticker": "NASDAQ:PARA",
+      "symbol": "PARA",
+      "premarket_change": 121.89349112426035,
+      "change_from_open": -27.077747989276133,
+      "premarket_close": 3.75,
+      "premarket_volume": 15859755,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 1784162.2721893494,
       "sector": "Technology Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:RDAC",
+      "symbol": "RDAC",
+      "premarket_change": 118.43137254901963,
+      "change_from_open": 1.893597835888195,
+      "premarket_close": 11.14,
+      "premarket_volume": 4520882,
+      "float_shares_percent_current": 50.75110000000001,
+      "float_shares_outstanding_current": 1743481.466427,
+      "market_cap_basic": 17520320,
+      "sector": "Finance",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:BLZE",
+      "symbol": "BLZE",
+      "premarket_change": 30.925675675675663,
+      "change_from_open": -13.340227507755936,
+      "premarket_close": 9.6885,
+      "premarket_volume": 549213,
+      "float_shares_percent_current": 94.6217,
+      "float_shares_outstanding_current": 59800914.400000006,
+      "market_cap_basic": 518722019.2513514,
+      "sector": "Electronic Technology",
       "exchange.tr": "NASDAQ"
     }
   ]
