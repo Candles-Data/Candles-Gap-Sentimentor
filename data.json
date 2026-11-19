@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T03:02:48.868311+00:00",
+  "updated": "2026-11-19T02:43:14.626609+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 4,
+  "total_count": 1,
   "columns": [
     {
       "left": "symbol",
@@ -56,55 +56,16 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:SLS",
-      "symbol": "SLS",
-      "premarket_change": 221.28514056224904,
-      "change_from_open": -20.555901265297663,
-      "premarket_close": 24,
-      "premarket_volume": 21977060,
-      "float_shares_percent_current": 98.88860000000001,
-      "float_shares_outstanding_current": 201593311.074,
-      "market_cap_basic": 1522827893,
-      "sector": "Health Technology",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:GP",
-      "symbol": "GP",
-      "premarket_change": 91.48936170212768,
-      "change_from_open": -3.321033210332098,
-      "premarket_close": 2.7,
-      "premarket_volume": 51064813,
-      "float_shares_percent_current": 57.899699999999996,
-      "float_shares_outstanding_current": 1216304.78787,
-      "market_cap_basic": 5503860.014184397,
-      "sector": "Consumer Durables",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:PAVS",
-      "symbol": "PAVS",
-      "premarket_change": 67.2566371681416,
-      "change_from_open": -29.066666666666663,
-      "premarket_close": 3.78,
-      "premarket_volume": 7184498,
-      "float_shares_percent_current": 99.99950000000001,
-      "float_shares_outstanding_current": 856892.715515,
-      "market_cap_basic": 2313237.221238938,
-      "sector": "Health Technology",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "NASDAQ:AYTU",
-      "symbol": "AYTU",
-      "premarket_change": 46.68681318681319,
-      "change_from_open": 0,
-      "premarket_close": 2.6697,
-      "premarket_volume": 943678,
-      "float_shares_percent_current": 91.7436,
-      "float_shares_outstanding_current": 9970877.9352,
-      "market_cap_basic": 28909433.92307692,
-      "sector": "Health Technology",
+      "_ticker": "NASDAQ:HIHO",
+      "symbol": "HIHO",
+      "premarket_change": 54.47154471544715,
+      "change_from_open": -15.039577836411604,
+      "premarket_close": 1.9,
+      "premarket_volume": 31645913,
+      "float_shares_percent_current": 69.9122,
+      "float_shares_outstanding_current": 3234613.77496,
+      "market_cap_basic": 7448947.731707319,
+      "sector": "Producer Manufacturing",
       "exchange.tr": "NASDAQ"
     }
   ]
