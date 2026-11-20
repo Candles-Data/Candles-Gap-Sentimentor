@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T02:43:14.626609+00:00",
+  "updated": "2026-11-20T02:28:48.977037+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 1,
+  "total_count": 2,
   "columns": [
     {
       "left": "symbol",
@@ -56,15 +56,28 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:HIHO",
-      "symbol": "HIHO",
-      "premarket_change": 54.47154471544715,
-      "change_from_open": -15.039577836411604,
-      "premarket_close": 1.9,
-      "premarket_volume": 31645913,
-      "float_shares_percent_current": 69.9122,
-      "float_shares_outstanding_current": 3234613.77496,
-      "market_cap_basic": 7448947.731707319,
+      "_ticker": "NASDAQ:SEAT",
+      "symbol": "SEAT",
+      "premarket_change": 96.875,
+      "change_from_open": -16.898608349900606,
+      "premarket_close": 2.52,
+      "premarket_volume": 58022992,
+      "float_shares_percent_current": 32.768,
+      "float_shares_outstanding_current": 3754721.2800000003,
+      "market_cap_basic": 23948212.75,
+      "sector": "Consumer Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:INHD",
+      "symbol": "INHD",
+      "premarket_change": 36.5217391304348,
+      "change_from_open": -10.759493670886085,
+      "premarket_close": 3.14,
+      "premarket_volume": 8042641,
+      "float_shares_percent_current": 98.7721,
+      "float_shares_outstanding_current": 2489630.785901,
+      "market_cap_basic": 7108038.0521739125,
       "sector": "Producer Manufacturing",
       "exchange.tr": "NASDAQ"
     }
