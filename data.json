@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:28:48.977037+00:00",
+  "updated": "2026-11-21T02:40:36.668955+00:00",
   "source": "TradingView pre-market gappers (america)",
   "total_count": 2,
   "columns": [
@@ -56,29 +56,29 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:SEAT",
-      "symbol": "SEAT",
-      "premarket_change": 96.875,
-      "change_from_open": -16.898608349900606,
-      "premarket_close": 2.52,
-      "premarket_volume": 58022992,
-      "float_shares_percent_current": 32.768,
-      "float_shares_outstanding_current": 3754721.2800000003,
-      "market_cap_basic": 23948212.75,
-      "sector": "Consumer Services",
+      "_ticker": "NASDAQ:AKAN",
+      "symbol": "AKAN",
+      "premarket_change": 41.98250728862973,
+      "change_from_open": -13.052415210688586,
+      "premarket_close": 4.87,
+      "premarket_volume": 13435754,
+      "float_shares_percent_current": 100,
+      "float_shares_outstanding_current": 2388212,
+      "market_cap_basic": 11137699.758017493,
+      "sector": "Process Industries",
       "exchange.tr": "NASDAQ"
     },
     {
-      "_ticker": "NASDAQ:INHD",
-      "symbol": "INHD",
-      "premarket_change": 36.5217391304348,
-      "change_from_open": -10.759493670886085,
-      "premarket_close": 3.14,
-      "premarket_volume": 8042641,
-      "float_shares_percent_current": 98.7721,
-      "float_shares_outstanding_current": 2489630.785901,
-      "market_cap_basic": 7108038.0521739125,
-      "sector": "Producer Manufacturing",
+      "_ticker": "NASDAQ:MEDS",
+      "symbol": "MEDS",
+      "premarket_change": 38.79345884292978,
+      "change_from_open": 35.353535353535364,
+      "premarket_close": 1.01,
+      "premarket_volume": 14619387,
+      "float_shares_percent_current": 50.3742,
+      "float_shares_outstanding_current": 2880337.314444,
+      "market_cap_basic": 7661960.533186753,
+      "sector": "Distribution Services",
       "exchange.tr": "NASDAQ"
     }
   ]
