@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T04:27:52.464424+00:00",
+  "updated": "2026-11-26T03:41:45.283402+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 3,
+  "total_count": 1,
   "columns": [
     {
       "left": "symbol",
@@ -56,42 +56,16 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:YFOR",
-      "symbol": "YFOR",
-      "premarket_change": 36.868744967215,
-      "change_from_open": -12.711864406779656,
-      "premarket_close": 1.1898,
-      "premarket_volume": 36409434,
-      "float_shares_percent_current": null,
-      "float_shares_outstanding_current": null,
-      "market_cap_basic": 6704147.129874612,
-      "sector": "Commercial Services",
-      "exchange.tr": "NASDAQ"
-    },
-    {
-      "_ticker": "AMEX:APUS",
-      "symbol": "APUS",
-      "premarket_change": 30.666666666666664,
-      "change_from_open": 18.461538461538467,
-      "premarket_close": 1.96,
-      "premarket_volume": 5762785,
-      "float_shares_percent_current": 37.3193,
-      "float_shares_outstanding_current": 689521.089818,
-      "market_cap_basic": 4268016.0600000005,
+      "_ticker": "NASDAQ:NRSN",
+      "symbol": "NRSN",
+      "premarket_change": 93.63636363636361,
+      "change_from_open": -17.370892018779337,
+      "premarket_close": 2.13,
+      "premarket_volume": 28589312,
+      "float_shares_percent_current": 68.29990000000001,
+      "float_shares_outstanding_current": 1702849.691805,
+      "market_cap_basic": 4388023.999999999,
       "sector": "Health Technology",
-      "exchange.tr": "NYSE Arca"
-    },
-    {
-      "_ticker": "NASDAQ:AKAN",
-      "symbol": "AKAN",
-      "premarket_change": 26.744186046511626,
-      "change_from_open": 59.50675603134922,
-      "premarket_close": 3.27,
-      "premarket_volume": 2693179,
-      "float_shares_percent_current": 100,
-      "float_shares_outstanding_current": 2388212,
-      "market_cap_basic": 6793207,
-      "sector": "Process Industries",
       "exchange.tr": "NASDAQ"
     }
   ]
