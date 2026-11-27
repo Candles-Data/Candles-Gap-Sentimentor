@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:41:45.283402+00:00",
+  "updated": "2026-11-27T03:43:00.503265+00:00",
   "source": "TradingView pre-market gappers (america)",
   "total_count": 1,
   "columns": [
@@ -64,7 +64,7 @@
       "premarket_volume": 28589312,
       "float_shares_percent_current": 68.29990000000001,
       "float_shares_outstanding_current": 1702849.691805,
-      "market_cap_basic": 4388023.999999999,
+      "market_cap_basic": 4388023,
       "sector": "Health Technology",
       "exchange.tr": "NASDAQ"
     }
