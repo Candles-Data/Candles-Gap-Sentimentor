@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T03:43:00.503265+00:00",
+  "updated": "2026-11-28T03:25:58.872757+00:00",
   "source": "TradingView pre-market gappers (america)",
-  "total_count": 1,
+  "total_count": 5,
   "columns": [
     {
       "left": "symbol",
@@ -56,16 +56,68 @@
   ],
   "rows": [
     {
-      "_ticker": "NASDAQ:NRSN",
-      "symbol": "NRSN",
-      "premarket_change": 93.63636363636361,
-      "change_from_open": -17.370892018779337,
-      "premarket_close": 2.13,
-      "premarket_volume": 28589312,
-      "float_shares_percent_current": 68.29990000000001,
-      "float_shares_outstanding_current": 1702849.691805,
-      "market_cap_basic": 4388023,
+      "_ticker": "NASDAQ:UFG",
+      "symbol": "UFG",
+      "premarket_change": 86.62790697674419,
+      "change_from_open": -24.804992199687984,
+      "premarket_close": 3.21,
+      "premarket_volume": 22323540,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 7824065,
+      "sector": "Distribution Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:POM",
+      "symbol": "POM",
+      "premarket_change": 80.74534161490683,
+      "change_from_open": 6.849315068493158,
+      "premarket_close": 2.91,
+      "premarket_volume": 24918018,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 57905480,
+      "sector": "Distribution Services",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:XCUR",
+      "symbol": "XCUR",
+      "premarket_change": 43.31374368491596,
+      "change_from_open": 0,
+      "premarket_close": 1.39,
+      "premarket_volume": 559494,
+      "float_shares_percent_current": 57.0238,
+      "float_shares_outstanding_current": 3732777.948,
+      "market_cap_basic": 9164393.648829777,
       "sector": "Health Technology",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:RETO",
+      "symbol": "RETO",
+      "premarket_change": 32.984293193717285,
+      "change_from_open": 8.086785009861936,
+      "premarket_close": 5.08,
+      "premarket_volume": 4224370,
+      "float_shares_percent_current": null,
+      "float_shares_outstanding_current": null,
+      "market_cap_basic": 10497087.759162305,
+      "sector": "Non-Energy Minerals",
+      "exchange.tr": "NASDAQ"
+    },
+    {
+      "_ticker": "NASDAQ:NCPL",
+      "symbol": "NCPL",
+      "premarket_change": 25.66844919786096,
+      "change_from_open": -13.983050847457632,
+      "premarket_close": 2.35,
+      "premarket_volume": 881212,
+      "float_shares_percent_current": 26.619600000000005,
+      "float_shares_outstanding_current": 2089079.5884000002,
+      "market_cap_basic": 15931234.828877004,
+      "sector": "Commercial Services",
       "exchange.tr": "NASDAQ"
     }
   ]
